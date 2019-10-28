@@ -1,0 +1,17 @@
+{
+  "name": "modulo01",
+  "version": "1",
+  "description": "Curso de node Bootcamp",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "main": "index.js",
+  "author": "Fabio Lima",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
